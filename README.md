@@ -12,7 +12,7 @@ to capture perceptions of gamified features and expectations of an
 ideal learning system. The study identified seven key gamification
 elements interactive tasks, lesson completion rewards, leaderboards,
 achievement animations, task completion discounts, free
-preview lessons, and detailed course outlines—and examined their
+preview lessons, and detailed course outlines and examined their
 prevalence across 24 platforms commonly used in Bangladesh. A
 within-subjects design ensured consistency, and statistical analysis,
 including heatmap visualizations, revealed that top-ranked
